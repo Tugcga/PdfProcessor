@@ -1,7 +1,7 @@
 import sys
 from PySide2.QtWidgets import QApplication, QMainWindow, QTabWidget, QWidget
 from PySide2.QtWidgets import QVBoxLayout
-from PySide2.QtCore import Qt, QSize
+from PySide2.QtCore import Qt
 from PySide2.QtGui import QPalette, QColor
 from PySide2.QtCore import QEvent
 
